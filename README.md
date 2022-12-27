@@ -38,4 +38,86 @@
 ## 휴식
 1) 그 전날 오프라인으로 못할 경우, 하루 전날 상대방에게 말한다. 
 
+<br>
+
+
+
+# 분류
+
+
+
+## 운영체제
+
+### 프로세스
+*  [221203 | 프로세스 동작, PCB](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day03/sumin.pdf)
+*  [221204 | 멀티 쓰레드 vs 멀티 태스킹 vs 멀티 프로세싱](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day03/sumin.pdf)
+*  [221204 | TCB ](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day03/sumin.pdf)
+
+### 프로세스 동기화
+*  [221217 | 프로세스 동기화](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day17/eunseok.pdf)
+*  [221226 | 세마포어가 여러 개의 프로세스에게 임계 영역을 허용하는 이유](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day03/sumin.pdf)
+
+### 데드락
+*  [221223 | Deadlock 필요 조건, 예방](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day23/eunseok.pdf)
+*  [221226 | Deadlock 회피, 검출, 회복](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day03/sumin.pdf)
+
+### 메모리
+*  [221212 | 데이터 저장구조 방식](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day03/sumin.pdf)
+
+<br>
+
+## 네트워크
+### Http
+*  [221201 | Https(SSL, TLS)](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day01/sumin.pdf)
+*  [221212 | API URI 설계 시 1](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day12/eunseok.pdf) 
+*  [221215 | API URI 설계 시 2](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day15/eunseok.pdf)
+*  [221212 | URI, URL, URN](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day12/eunseok.pdf)
+*  [221212 | Http의 특징, 메서드 속성](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day12/eunseok.pdf)
+*  [221215 | 상태 코드](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day15/eunseok.pdf)
+*  [221215 | RestAPI](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day15/sumin.pdf)
+*  [221217 | PRG](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day17/eunseok.pdf)
+*  [221218 | Http 0.9 1.0 1.1 2.0](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day18/eunseok.pdf)
+*  [221220 | 조건부 요청](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day20/es.pdf)
+### TCP
+*  [221220 | 3-way HandShake](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day20/ysm.pdf)
+*  [221220 | TLS 3-way HandShake](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day20/ysm.pdf)
+*  [221220 | 4-way HandShake](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day20/ysm.pdf)
+*  [221220 | TCP 타이머](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day20/ysm.pdf)
+
+<br>
+
+## OOP
+* [221212 | SOLID](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day12/sumin.pdf)
+
+<br>
+
+## Java
+### GC
+  * [221219 | 동작 방식1](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day19/sumin.pdf)
+  * [221220 | 동작 방식2](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day20/sumin.pdf)
+  * [221219 | 종류](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day19/sumin.pdf)
+### 일반
+  * [221219 | String, StringBuilder, StringBuffer](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day19/sumin.pdf)
+  * [221221 | 동기화 - Volatile, Synchronized, monitor](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day21/eunseok.pdf)
+
+<br>
+
+## Spring
+  * [221201 | RequestBody, ResponseBody](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day01/sumin.pdf)
+  * [221202 | Dispatcherservlet](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day02/sumin.pdf)
+  * [221215 | UncheckedException과 CheckedException](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day15/sumin.pdf)
+  * [221215 | Controller RestController](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day15/sumin.pdf)
+  * [221224 | 의존 관계 주입](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day24/eunseok.pdf)
+  * [221225 | 빈 생명주기, 콜백, 빈 스코프](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day25/eunseok.pdf)
+  * [221226 | 스프링 순환 참조 문제](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day26/eunseok.pdf)
+
+<br>
+
+## 자료구조
+
+  * [221212 | HashMap에서 충돌을 핸들링 하는 방법](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day12/sumin.pdf)
+  * [221212 | HashMap vs LinkedHashMap ](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day12/sumin.pdf)
+  * [221212 | Linkedlist vs ArrayList](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day12/sumin.pdf)
+
+
 
