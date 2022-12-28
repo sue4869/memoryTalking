@@ -55,7 +55,7 @@
 
 ### 프로세스 동기화
 *  [221217 | 프로세스 동기화](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day17/eunseok.pdf)
-*  [221227 | 프로세스 동기화2](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day27/sumin.pdf)
+*  [221227 | 프로세스 동기화2](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day27/sumin1227.pdf)
 *  [221226 | 세마포어가 여러 개의 프로세스에게 임계 영역을 허용하는 이유](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day03/sumin.pdf)
 
 ### 데드락
