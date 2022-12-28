@@ -111,6 +111,7 @@
   * [221224 | 의존 관계 주입](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day24/eunseok.pdf)
   * [221225 | 빈 생명주기, 콜백, 빈 스코프](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day25/eunseok.pdf)
   * [221226 | 스프링 순환 참조 문제](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day26/eunseok.pdf)
+  * [221227 | 스레드 풀](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day27/eunseok.pdf)
 
 <br>
 
@@ -119,6 +120,12 @@
   * [221212 | HashMap에서 충돌을 핸들링 하는 방법](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day12/sumin.pdf)
   * [221212 | HashMap vs LinkedHashMap ](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day12/sumin.pdf)
   * [221212 | Linkedlist vs ArrayList](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day12/sumin.pdf)
+
+<br>
+
+## 웹 
+  * [221227 | 웹 시스템 구성](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day27/eunseok.pdf)
+  * [221227 | Servlet Container](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day27/eunseok.pdf)
 
 
 
