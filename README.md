@@ -127,5 +127,10 @@
   * [221227 | 웹 시스템 구성](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day27/eunseok.pdf)
   * [221227 | Servlet Container](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day27/eunseok.pdf)
 
+## JPA
+  * [221229 | JPA - 기본 키 매핑 ](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day29/sumin.pdf)
+
+## 데이터베이스
+  * [221229 | MySQL 아키텍처 ](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day29/sumin.pdf)
 
 
