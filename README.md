@@ -80,6 +80,7 @@
 *  [221218 | Http 0.9 1.0 1.1 2.0](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day18/eunseok.pdf)
 *  [221220 | 조건부 요청](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day20/es.pdf)
 *  [221229 | Http 요청 데이터의 3가지 형식](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day29/eunseok.pdf)
+*  [221229 | 멱등성](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day29/eunseok.pdf)
 ### TCP
 *  [221220 | 3-way HandShake](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day20/ysm.pdf)
 *  [221220 | TLS 3-way HandShake](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day20/ysm.pdf)
