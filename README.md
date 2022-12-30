@@ -79,6 +79,7 @@
 *  [221217 | PRG](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day17/eunseok.pdf)
 *  [221218 | Http 0.9 1.0 1.1 2.0](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day18/eunseok.pdf)
 *  [221220 | 조건부 요청](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day20/es.pdf)
+*  [221229 | Http 요청 데이터의 3가지 형식](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day29/eunseok.pdf)
 ### TCP
 *  [221220 | 3-way HandShake](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day20/ysm.pdf)
 *  [221220 | TLS 3-way HandShake](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day20/ysm.pdf)
@@ -112,6 +113,8 @@
   * [221225 | 빈 생명주기, 콜백, 빈 스코프](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day25/eunseok.pdf)
   * [221226 | 스프링 순환 참조 문제](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day26/eunseok.pdf)
   * [221227 | 스레드 풀](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day27/eunseok.pdf)
+  * [221229 | Front Controller](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day29/eunseok.pdf)
+  * [221229 | 어댑터 패턴](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day29/eunseok.pdf)
 
 <br>
 
