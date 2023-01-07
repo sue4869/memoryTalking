@@ -102,13 +102,14 @@
 ### 일반
   * [221219 | String, StringBuilder, StringBuffer](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day19/sumin.pdf)
   * [221221 | 동기화 - Volatile, Synchronized, monitor](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day21/eunseok.pdf)
+  * [230106 | UncheckedException과 CheckedException](https://github.com/sue4869/memoryTalking/blob/main/2023/01/1주차/Day6/sumin.pdf)
+  * [230106 | Error와 Exception](https://github.com/sue4869/memoryTalking/blob/main/2023/01/1주차/Day6/sumin.pdf)
 
 <br>
 
 ## Spring
   * [221201 | RequestBody, ResponseBody](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day01/sumin.pdf)
   * [221202 | Dispatcherservlet](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day02/sumin.pdf)
-  * [221215 | UncheckedException과 CheckedException](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day15/sumin.pdf)
   * [221215 | Controller RestController](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day15/sumin.pdf)
   * [221224 | 의존 관계 주입](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day24/eunseok.pdf)
   * [221225 | 빈 생명주기, 콜백, 빈 스코프](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day25/eunseok.pdf)
@@ -116,6 +117,11 @@
   * [221227 | 스레드 풀](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day27/eunseok.pdf)
   * [221229 | Front Controller](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day29/eunseok.pdf)
   * [221229 | 어댑터 패턴](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day29/eunseok.pdf)
+
+<br>
+
+## JPA
+  * [230106 | 지연로딩이 적용 안되는 경우](https://github.com/sue4869/memoryTalking/blob/main/2023/01/1주차/Day6/sumin.pdf)
 
 <br>
 
@@ -136,5 +142,6 @@
 
 ## 데이터베이스
   * [221229 | MySQL 아키텍처 ](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day29/sumin.pdf)
+  * [230106 | 트랜잭션 격리레벨 ](https://github.com/sue4869/memoryTalking/blob/main/2023/01/1주차/Day6/sumin.pdf)
 
 
