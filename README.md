@@ -104,6 +104,7 @@
   * [221221 | 동기화 - Volatile, Synchronized, monitor](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day21/eunseok.pdf)
   * [230106 | UncheckedException과 CheckedException](https://github.com/sue4869/memoryTalking/blob/main/2023/01/1주차/Day6/sumin.pdf)
   * [230106 | Error와 Exception](https://github.com/sue4869/memoryTalking/blob/main/2023/01/1주차/Day6/sumin.pdf)
+  * [230106 | 변수](https://github.com/sue4869/memoryTalking/blob/main/2023/01/1주차/Day6/eunseok.pdf)
 
 <br>
 
