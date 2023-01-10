@@ -105,6 +105,10 @@
   * [230106 | UncheckedException과 CheckedException](https://github.com/sue4869/memoryTalking/blob/main/2023/01/1주차/Day6/sumin.pdf)
   * [230106 | Error와 Exception](https://github.com/sue4869/memoryTalking/blob/main/2023/01/1주차/Day6/sumin.pdf)
   * [230106 | 변수](https://github.com/sue4869/memoryTalking/blob/main/2023/01/1주차/Day6/eunseok.pdf)
+  * [230109 | 상속](https://github.com/sue4869/memoryTalking/blob/main/2023/01/1주차/Day9/eunseok.pdf)
+  * [230109 | Object 클래스](https://github.com/sue4869/memoryTalking/blob/main/2023/01/1주차/Day9/eunseok.pdf)
+  * [230109 | final 키워드](https://github.com/sue4869/memoryTalking/blob/main/2023/01/1주차/Day9/eunseok.pdf)
+  * [230109 | 인터페이스](https://github.com/sue4869/memoryTalking/blob/main/2023/01/1주차/Day9/eunseok.pdf)
 
 <br>
 
