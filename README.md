@@ -110,7 +110,8 @@
   * [230109 | Object 클래스](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day9/eunseok.pdf)
   * [230109 | final 키워드](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day9/eunseok.pdf)
   * [230109 | 인터페이스](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day9/eunseok.pdf)
-
+  * [230110 | String 클래스](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day10/eunseok.pdf)
+  * [230110 | 중첩 클래스](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day10/eunseok.pdf)
 <br>
 
 ## Spring
