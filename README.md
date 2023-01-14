@@ -137,7 +137,7 @@
   * [221212 | HashMap에서 충돌을 핸들링 하는 방법](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day12/sumin.pdf)
   * [221212 | HashMap vs LinkedHashMap ](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day12/sumin.pdf)
   * [221212 | Linkedlist vs ArrayList](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day12/sumin.pdf)
-  * [230109 | 해시충돌](https://github.com/sue4869/memoryTalking/blob/main/2023/01/1주차/Day9/sumin.pdf)
+  * [230109 | 해시충돌](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day9/sumin.pdf)
 
 
 <br>
@@ -152,7 +152,7 @@
 ## 데이터베이스
   * [221229 | MySQL 아키텍처 ](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day29/sumin.pdf)
   * [230106 | 트랜잭션 격리레벨 ](https://github.com/sue4869/memoryTalking/blob/main/2023/01/1주차/Day6/sumin.pdf)
-  * [230109 | 안정해시설계 - 수평적 규모 확장성 달성하기](https://github.com/sue4869/memoryTalking/blob/main/2023/01/1주차/Day9/sumin.pdf)
-
+  * [230109 | 안정해시설계 - 수평적 규모 확장성 달성하기](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day9/sumin.pdf)
+  * [230111 | 인덱스](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day11/sumin.pdf)
 
 
