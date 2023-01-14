@@ -114,7 +114,9 @@
   * [230110 | String 클래스](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day10/eunseok.pdf)
   * [230110 | 중첩 클래스](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day10/eunseok.pdf)
   * [230111 | 제네릭](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day11/eunseok.pdf)
-  * <br>
+  * [230113 | overriding 시 접근 제어자가 유지 혹은 확장만 되는 이유](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day13/eunseok.pdf)
+
+  <br>
 
 ## Spring
   * [221201 | RequestBody, ResponseBody](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day01/sumin.pdf)
