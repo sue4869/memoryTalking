@@ -65,6 +65,7 @@
 
 ### 메모리
 *  [221212 | 데이터 저장구조 방식](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day03/sumin.pdf)
+*  [230111 | 가상 메모리](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day11/eunseok.pdf)
 
 <br>
 
@@ -112,7 +113,8 @@
   * [230109 | 인터페이스](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day9/eunseok.pdf)
   * [230110 | String 클래스](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day10/eunseok.pdf)
   * [230110 | 중첩 클래스](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day10/eunseok.pdf)
-<br>
+  * [230111 | 제네릭](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day11/eunseok.pdf)
+  * <br>
 
 ## Spring
   * [221201 | RequestBody, ResponseBody](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day01/sumin.pdf)
