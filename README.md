@@ -70,6 +70,11 @@
 <br>
 
 ## 네트워크
+### 일반
+*  [220117 | 포트 포워딩](https://github.com/sue4869/memoryTalking/blob/main/2023/01/3주차/Day17/eunseok.pdf)
+*  [220117 | OSI 7계층- 세션, 표현, 응용](https://github.com/sue4869/memoryTalking/blob/main/2023/01/3주차/Day17/eunseok.pdf)
+*  [220117 | 브라우저에 www.naver.com을 입력했을 때](https://github.com/sue4869/memoryTalking/blob/main/2023/01/3주차/Day17/eunseok.pdf)
+
 ### Http
 *  [221201 | Https(SSL, TLS)](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day01/sumin.pdf)
 *  [221212 | API URI 설계 시 1](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day12/eunseok.pdf) 
