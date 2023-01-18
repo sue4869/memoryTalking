@@ -88,6 +88,7 @@
 *  [221220 | TLS 3-way HandShake](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day20/ysm.pdf)
 *  [221220 | 4-way HandShake](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day20/ysm.pdf)
 *  [221220 | TCP 타이머](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day20/ysm.pdf)
+*  [230116 | SSL 핸드셰이크과정1](https://github.com/sue4869/memoryTalking/blob/main/2023/01/1주차/Day16/ysm.pdf)
 
 <br>
 
@@ -158,5 +159,7 @@
   * [230106 | 트랜잭션 격리레벨 ](https://github.com/sue4869/memoryTalking/blob/main/2023/01/1주차/Day6/sumin.pdf)
   * [230109 | 안정해시설계 - 수평적 규모 확장성 달성하기](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day09/sumin.pdf)
   * [230111 | 인덱스](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day11/sumin.pdf)
+  * [230116 | 클러스터링인덱스](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day16/sumin.pdf)
+
 
 
