@@ -148,7 +148,7 @@
   * [221212 | HashMap vs LinkedHashMap ](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day12/sumin.pdf)
   * [221212 | Linkedlist vs ArrayList](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day12/sumin.pdf)
   * [230109 | 해시충돌](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day09/sumin.pdf)
-
+  * [230413 | Hashtable vs ConcurrentHashMap](https://github.com/sue4869/memoryTalking/blob/main/2023/04/2주차/Day13/sumin.md)
 
 <br>
 
@@ -167,4 +167,6 @@
   * [230116 | 클러스터링인덱스](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day16/sumin.pdf)
 
 
+## 알고리즘
+  * [230413 | Sort의 compareTo](https://github.com/sue4869/memoryTalking/blob/main/2023/04/2주차/Day13/sumin.md)
 
