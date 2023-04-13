@@ -16,7 +16,8 @@
         
          - 빈 Hash Bucket에 노드를 사용할 경우 : lock 사용하지 않고, compare and swap을 사용
             - 여러 쓰레드가 접근하면? : CAS 알고리즘으로 다시 한번 확인한다.
-            CAS 알고리즘 : CAS 알고리즘은 현재 스레드가 가지고 있는 기존값과 메모리가 가지고 있는 값을 비교해 같은 경우 변경할 값을 메모리에 반영하고 true를 반환한다. 
+            
+                CAS 알고리즘 : CAS 알고리즘은 현재 스레드가 가지고 있는 기존값과 메모리가 가지고 있는 값을 비교해 같은 경우 변경할 값을 메모리에 반영하고 true를 반환한다. 
         - 이미 Bucket에 노드가 존재할 경우 : `synchronized` 을 이용해 하나의 thread만 접근하도록 제어한다. 서로 다른 thread가 같은 hash bucket에 접근할 때만 해당 block이 lock된다.
             
             ![Untitled](https://user-images.githubusercontent.com/68679529/231639019-212f8e3a-3bb5-4070-ac04-7071c33e44b2.png)
