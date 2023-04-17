@@ -161,6 +161,8 @@
   * [221227 | Servlet Container](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day27/eunseok.pdf)
 
 ## JPA
+  * [230413 | JPA - JPA(ORM)를 사용하는 이유 ](https://github.com/sue4869/memoryTalking/blob/main/2023/04/2주차/Day13/eunseok.md)
+
   * [221229 | JPA - 기본 키 매핑 ](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day29/sumin.pdf)
 
 ## 데이터베이스
