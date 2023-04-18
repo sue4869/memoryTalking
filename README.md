@@ -77,7 +77,7 @@
 
 ### Http
 *  [221201 | Https(SSL, TLS)](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day01/sumin.pdf)
-*  [230129 | Https-2((https://github.com/sue4869/memoryTalking/blob/main/2023/01/5주차/Day29/eunseok.pdf)
+*  [230129 | Https-2](https://github.com/sue4869/memoryTalking/blob/main/2023/01/5주차/Day29/eunseok.pdf)
 *  [221212 | API URI 설계 시 1](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day12/eunseok.pdf) 
 *  [221215 | API URI 설계 시 2](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day15/eunseok.pdf)
 *  [221212 | URI, URL, URN](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day12/eunseok.pdf)
@@ -111,6 +111,7 @@
   * [221219 | 종류](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day19/sumin.pdf)
 ### 일반
   * [221219 | String, StringBuilder, StringBuffer](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day19/sumin.pdf)
+  * [230417 | String, StringBuilder, StringBuffer](https://github.com/sue4869/memoryTalking/blob/main/2023/04/3주차/Day17/sumin.md)
   * [221221 | 동기화 - Volatile, Synchronized, monitor](https://github.com/sue4869/memoryTalking/blob/main/2022/12/Day21/eunseok.pdf)
   * [230106 | UncheckedException과 CheckedException](https://github.com/sue4869/memoryTalking/blob/main/2023/01/1주차/Day6/sumin.pdf)
   * [230106 | Error와 Exception](https://github.com/sue4869/memoryTalking/blob/main/2023/01/1주차/Day6/sumin.pdf)
@@ -123,6 +124,7 @@
   * [230110 | 중첩 클래스](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day10/eunseok.pdf)
   * [230111 | 제네릭](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day11/eunseok.pdf)
   * [230113 | overriding 시 접근 제어자가 유지 혹은 확장만 되는 이유](https://github.com/sue4869/memoryTalking/blob/main/2023/01/2주차/Day13/eunseok.pdf)
+   * [230417 | 락 종류](https://github.com/sue4869/memoryTalking/blob/main/2023/04/3주차/Day17/sumin.md)
 
   <br>
 
